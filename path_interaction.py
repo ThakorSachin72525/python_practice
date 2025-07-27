@@ -4,8 +4,6 @@ from datetime import datetime
 
 p = Path.cwd()
 
-# print(p)
-
 for root, dirs, files in os.walk(p):
     for file in files:
         if file.endswith("ipynb"):
