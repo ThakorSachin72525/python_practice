@@ -1,0 +1,291 @@
+FirstName,MiddleName,LastName,JobTitle,HireDate,EmailAddress,PhoneNumber
+Maciej,W,Dusza,Production Technician - WC60,2010-01-29,maciej0@adventure-works.com,237-555-0128
+Michael,J,Zwilling,Production Technician - WC60,2010-02-23,michael7@adventure-works.com,582-555-0148
+Randy,T,Reeves,Production Technician - WC60,2010-02-23,randy0@adventure-works.com,961-555-0122
+Karan,R,Khanna,Production Technician - WC60,2009-12-22,karan0@adventure-works.com,447-555-0186
+Jay,G,Adams,Production Technician - WC60,2009-03-05,jay0@adventure-works.com,407-555-0165
+Charles,B,Fitzgerald,Production Technician - WC60,2009-12-03,charles0@adventure-works.com,931-555-0118
+Steve,F,Masters,Production Technician - WC60,2009-02-15,steve0@adventure-works.com,712-555-0170
+David,J,Ortiz,Production Technician - WC60,2008-12-15,david2@adventure-works.com,712-555-0119
+Michael,Sean,Ray,Production Supervisor - WC30,2009-02-15,michael3@adventure-works.com,156-555-0199
+Steven,T,Selikoff,Production Technician - WC30,2008-12-01,steven0@adventure-works.com,925-555-0114
+Carole,M,Poland,Production Technician - WC30,2008-12-19,carole0@adventure-works.com,688-555-0192
+Bjorn,M,Rettig,Production Technician - WC30,2009-01-07,bjorn0@adventure-works.com,199-555-0117
+Michiko,F,Osada,Production Technician - WC30,2009-01-26,michiko0@adventure-works.com,984-555-0148
+Carol,M,Philips,Production Technician - WC30,2009-02-12,carol0@adventure-works.com,609-555-0153
+Merav,A,Netz,Production Technician - WC30,2009-03-03,merav0@adventure-works.com,224-555-0187
+Reuben,H,D'sa,Production Supervisor - WC40,2008-12-15,reuben0@adventure-works.com,191-555-0112
+Eric,L,Brown,Production Technician - WC40,2010-01-24,eric1@adventure-works.com,680-555-0118
+Sandeep,P,Kaliyath,Production Technician - WC40,2010-01-17,sandeep0@adventure-works.com,166-555-0156
+Mihail,U,Frintu,Production Technician - WC40,2009-12-29,mihail0@adventure-works.com,733-555-0128
+Jack,T,Creasey,Production Technician - WC40,2010-03-03,jack1@adventure-works.com,521-555-0113
+Patrick,M,Cook,Production Technician - WC40,2010-02-12,patrick1@adventure-works.com,425-555-0117
+Frank,R,Martinez,Production Technician - WC40,2010-02-05,frank3@adventure-works.com,203-555-0196
+Brian,Richard,Goldstein,Production Technician - WC40,2009-12-11,brian2@adventure-works.com,730-555-0117
+Ryan,L,Cornelsen,Production Technician - WC40,2009-01-05,ryan0@adventure-works.com,208-555-0114
+Cristian,K,Petculescu,Production Supervisor - WC10,2008-12-22,cristian0@adventure-works.com,434-555-0133
+Betsy,A,Stadick,Production Technician - WC10,2009-12-18,betsy0@adventure-works.com,405-555-0171
+Patrick,C,Wedge,Production Technician - WC10,2010-02-01,patrick0@adventure-works.com,413-555-0124
+Danielle,C,Tiedt,Production Technician - WC10,2010-02-20,danielle0@adventure-works.com,500-555-0172
+Kimberly,B,Zimmerman,Production Technician - WC10,2010-01-12,kimberly0@adventure-works.com,123-555-0167
+Tom,M,Vande Velde,Production Technician - WC10,2010-03-10,tom0@adventure-works.com,295-555-0161
+Kok-Ho,T,Loh,Production Supervisor - WC50,2008-12-27,kok-ho0@adventure-works.com,999-555-0155
+Russell,,Hunter,Production Technician - WC50,2008-12-12,russell0@adventure-works.com,786-555-0144
+John,T,Campbell,Production Supervisor - WC60,2008-03-17,john0@adventure-works.com,435-555-0113
+Diane,H,Tibbott,Production Technician - WC50,2009-01-18,diane2@adventure-works.com,361-555-0180
+Pete,C,Male,Production Technician - WC50,2009-01-11,pete0@adventure-works.com,768-555-0123
+Bob,N,Hohman,Production Technician - WC50,2008-12-24,bob0@adventure-works.com,611-555-0116
+Kendall,C,Keil,Production Technician - WC50,2008-12-05,kendall0@adventure-works.com,138-555-0128
+Frank,T,Miller,Production Technician - WC50,2009-02-23,frank1@adventure-works.com,167-555-0139
+Denise,H,Smith,Production Technician - WC50,2009-02-05,denise0@adventure-works.com,869-555-0119
+Taylor,R,Maxwell,Production Supervisor - WC50,2008-02-08,taylor0@adventure-works.com,508-555-0165
+Bonnie,N,Kearney,Production Technician - WC10,2010-01-01,bonnie0@adventure-works.com,264-555-0150
+Diane,R,Glimp,Production Technician - WC10,2008-03-28,diane0@adventure-works.com,202-555-0151
+Doris,M,Hartwig,Production Technician - WC10,2008-03-10,doris0@adventure-works.com,328-555-0150
+Jeffrey,L,Ford,Production Technician - WC10,2008-02-20,jeffrey0@adventure-works.com,984-555-0185
+Sidney,M,Higa,Production Technician - WC10,2008-02-02,sidney0@adventure-works.com,424-555-0189
+Barry,K,Johnson,Production Technician - WC10,2008-01-07,barry0@adventure-works.com,206-555-0180
+Ruth,Ann,Ellerbrock,Production Technician - WC10,2008-01-06,ruth0@adventure-works.com,145-555-0130
+Andrew,R,Hill,Production Supervisor - WC10,2009-02-22,andrew0@adventure-works.com,908-555-0159
+Eugene,O,Kogan,Production Technician - WC60,2009-02-08,eugene1@adventure-works.com,173-555-0179
+Thomas,R,Michaels,Production Technician - WC60,2009-02-26,thomas0@adventure-works.com,278-555-0118
+Simon,D,Rapier,Production Technician - WC60,2008-12-08,simon0@adventure-works.com,963-555-0134
+Nancy,A,Anderson,Production Technician - WC60,2009-01-02,nancy0@adventure-works.com,970-555-0118
+James,D,Kramer,Production Technician - WC60,2008-12-27,james0@adventure-works.com,119-555-0117
+Bryan,,Baker,Production Technician - WC60,2009-01-21,bryan0@adventure-works.com,712-555-0113
+JoLynn,M,Dobney,Production Supervisor - WC60,2007-12-26,jolynn0@adventure-works.com,903-555-0145
+Ed,R,Dudenhoefer,Production Technician - WC60,2010-02-05,ed0@adventure-works.com,919-555-0140
+Kim,B,Abercrombie,Production Technician - WC60,2010-01-16,kim1@adventure-works.com,208-555-0114
+Chris,O,Okelberry,Production Technician - WC60,2009-03-07,chris2@adventure-works.com,315-555-0144
+Jose,R,Lugo,Production Technician - WC60,2009-02-10,jose0@adventure-works.com,587-555-0115
+Brandon,G,Heidepriem,Production Technician - WC60,2009-02-08,brandon0@adventure-works.com,429-555-0137
+Suchitra,O,Mohan,Production Technician - WC60,2009-02-16,suchitra0@adventure-works.com,753-555-0129
+Annik,O,Stahl,Production Technician - WC60,2008-12-17,annik0@adventure-works.com,499-555-0125
+Rebecca,A,Laszlo,Production Technician - WC60,2008-12-29,rebecca0@adventure-works.com,314-555-0113
+Margie,W,Shoop,Production Technician - WC60,2009-01-04,margie0@adventure-works.com,818-555-0128
+Britta,L,Simon,Production Technician - WC60,2009-01-29,britta0@adventure-works.com,955-555-0169
+Mark,K,McArthur,Production Technician - WC60,2009-01-23,mark1@adventure-works.com,417-555-0154
+Guy,R,Gilbert,Production Technician - WC60,2006-06-30,guy1@adventure-works.com,320-555-0195
+Jo,A,Brown,Production Supervisor - WC60,2008-02-27,jo0@adventure-works.com,632-555-0129
+Peter,J,Krebs,Production Control Manager,2008-12-01,peter0@adventure-works.com,913-555-0196
+James,R,Hamilton,Vice President of Production,2009-02-03,james1@adventure-works.com,870-555-0122
+Jill,A,Williams,Marketing Specialist,2009-01-18,jill0@adventure-works.com,510-555-0121
+Mary,E,Gibson,Marketing Specialist,2009-01-12,mary0@adventure-works.com,531-555-0183
+Sariya,E,Harnpadoungsataya,Marketing Specialist,2008-12-12,sariya0@adventure-works.com,399-555-0176
+Terry,J,Eminhizer,Marketing Specialist,2009-03-02,terry0@adventure-works.com,138-555-0118
+Wanida,M,Benshoof,Marketing Assistant,2011-01-07,wanida0@adventure-works.com,708-555-0141
+Mary,A,Dempsey,Marketing Assistant,2011-02-14,mary2@adventure-works.com,124-555-0114
+John,L,Wood,Marketing Specialist,2011-02-07,john5@adventure-works.com,486-555-0150
+Kevin,F,Brown,Marketing Assistant,2007-01-26,kevin0@adventure-works.com,150-555-0189
+David,M,Bradley,Marketing Manager,2007-12-20,david0@adventure-works.com,913-555-0172
+Sharon,B,Salavaria,Design Engineer,2011-01-18,sharon0@adventure-works.com,970-555-0138
+Michael,I,Sullivan,Senior Design Engineer,2010-12-30,michael8@adventure-works.com,465-555-0156
+Janice,M,Galvin,Tool Designer,2010-12-23,janice0@adventure-works.com,473-555-0117
+Thierry,B,D'Hers,Tool Designer,2007-12-11,thierry0@adventure-works.com,168-555-0183
+Ovidiu,V,Cracium,Senior Tool Designer,2010-12-05,ovidiu0@adventure-works.com,719-555-0181
+Michael,,Raheem,Research and Development Manager,2009-05-03,michael6@adventure-works.com,330-555-2568
+Gigi,N,Matthew,Research and Development Engineer,2009-01-16,gigi0@adventure-works.com,185-555-0186
+Diane,L,Margheim,Research and Development Engineer,2008-12-29,diane1@adventure-works.com,815-555-0138
+Dylan,A,Miller,Research and Development Manager,2009-02-08,dylan0@adventure-works.com,181-555-0156
+Jossef,H,Goldberg,Design Engineer,2008-01-24,jossef0@adventure-works.com,122-555-0189
+Gail,A,Erickson,Design Engineer,2008-01-06,gail0@adventure-works.com,849-555-0139
+Rob,,Walters,Senior Tool Designer,2007-12-05,rob0@adventure-works.com,612-555-0100
+Roberto,,Tamburello,Engineering Manager,2007-11-11,roberto0@adventure-works.com,212-555-0187
+Terri,Lee,Duffy,Vice President of Engineering,2008-01-31,terri0@adventure-works.com,819-555-0175
+Ken,J,Sánchez,Chief Executive Officer,2009-01-14,ken0@adventure-works.com,697-555-0142
+Jim,H,Scardelis,Production Technician - WC50,2008-12-19,jim0@adventure-works.com,679-555-0113
+Elizabeth,I,Keyser,Production Technician - WC50,2009-03-02,elizabeth0@adventure-works.com,318-555-0137
+Mandar,H,Samant,Production Technician - WC50,2009-02-10,mandar0@adventure-works.com,140-555-0132
+Sameer,A,Tejani,Production Technician - WC50,2009-02-11,sameer0@adventure-works.com,990-555-0172
+Nuan,,Yu,Production Technician - WC50,2009-01-06,nuan0@adventure-works.com,913-555-0184
+Lolan,B,Song,Production Technician - WC50,2009-01-12,lolan0@adventure-works.com,582-555-0178
+Houman,N,Pournasseh,Production Technician - WC50,2009-01-25,houman0@adventure-works.com,180-555-0136
+Zheng,W,Mu,Production Supervisor - WC10,2008-12-03,zheng0@adventure-works.com,113-555-0173
+Ebru,N,Ersan,Production Technician - WC10,2009-12-06,ebru0@adventure-works.com,202-555-0187
+Mary,R,Baker,Production Technician - WC10,2009-12-25,mary1@adventure-works.com,283-555-0185
+Kevin,M,Homer,Production Technician - WC10,2009-12-25,kevin2@adventure-works.com,555-555-0113
+John,T,Kane,Production Technician - WC10,2010-02-27,john4@adventure-works.com,254-555-0114
+Christopher,E,Hill,Production Technician - WC10,2010-02-08,christopher0@adventure-works.com,153-555-0166
+Jinghao,K,Liu,Production Supervisor - WC50,2008-12-08,jinghao0@adventure-works.com,794-555-0159
+Alice,O,Ciccu,Production Technician - WC50,2008-12-07,alice0@adventure-works.com,333-555-0173
+Jun,T,Cao,Production Technician - WC50,2008-12-14,jun0@adventure-works.com,299-555-0113
+Suroor,R,Fatima,Production Technician - WC50,2008-12-17,suroor0@adventure-works.com,932-555-0161
+John,P,Evans,Production Technician - WC50,2009-01-01,john1@adventure-works.com,172-555-0130
+Linda,K,Moschell,Production Technician - WC50,2008-12-25,linda0@adventure-works.com,612-555-0171
+Mindaugas,J,Krapauskas,Production Technician - WC50,2009-01-13,mindaugas0@adventure-works.com,637-555-0120
+Angela,W,Barbariol,Production Technician - WC50,2009-01-20,angela0@adventure-works.com,150-555-0194
+Michael,W,Patten,Production Technician - WC50,2009-01-31,michael2@adventure-works.com,441-555-0195
+Chad,W,Niswonger,Production Technician - WC50,2009-02-18,chad0@adventure-works.com,559-555-0175
+Don,L,Hall,Production Technician - WC50,2009-02-13,don0@adventure-works.com,100-555-0174
+Michael,T,Entin,Production Technician - WC50,2009-02-25,michael4@adventure-works.com,817-555-0186
+Kitti,H,Lertpiriyasuwat,Production Technician - WC50,2009-03-04,kitti0@adventure-works.com,785-555-0132
+Pilar,G,Ackerman,Shipping and Receiving Supervisor,2009-01-02,pilar0@adventure-works.com,577-555-0185
+Susan,W,Eaton,Stocker,2008-12-07,susan0@adventure-works.com,943-555-0196
+Vamsi,N,Kuppa,Shipping and Receiving Clerk,2008-12-07,vamsi0@adventure-works.com,937-555-0137
+Kim,T,Ralls,Stocker,2008-12-26,kim0@adventure-works.com,309-555-0129
+Matthias,T,Berndt,Shipping and Receiving Clerk,2009-01-20,matthias0@adventure-works.com,139-555-0120
+Jimmy,T,Bischoff,Stocker,2009-02-26,jimmy0@adventure-works.com,927-555-0168
+David,P,Hamilton,Production Supervisor - WC40,2009-01-03,david4@adventure-works.com,986-555-0177
+Paul,B,Komosinski,Production Technician - WC40,2008-12-04,paul0@adventure-works.com,147-555-0160
+Gary,W,Yukish,Production Technician - WC40,2008-12-22,gary0@adventure-works.com,901-555-0125
+Rob,T,Caron,Production Technician - WC40,2009-02-13,rob1@adventure-works.com,238-555-0116
+Baris,F,Cetinok,Production Technician - WC40,2009-02-15,baris0@adventure-works.com,164-555-0114
+Nicole,B,Holliday,Production Technician - WC40,2009-02-22,nicole0@adventure-works.com,508-555-0129
+Michael,L,Rothkugel,Production Technician - WC40,2009-01-10,michael1@adventure-works.com,454-555-0119
+Eric,,Gubbels,Production Supervisor - WC20,2009-01-14,eric0@adventure-works.com,260-555-0119
+Ivo,William,Salmre,Production Technician - WC20,2008-12-04,ivo0@adventure-works.com,115-555-0179
+Sylvester,A,Valdez,Production Technician - WC20,2009-12-11,sylvester0@adventure-works.com,492-555-0174
+Anibal,T,Sousa,Production Technician - WC20,2009-02-23,anibal0@adventure-works.com,106-555-0120
+Samantha,H,Smith,Production Technician - WC20,2009-02-04,samantha0@adventure-works.com,587-555-0114
+Hung-Fu,T,Ting,Production Technician - WC20,2010-01-06,hung-fu0@adventure-works.com,497-555-0181
+Prasanna,E,Samarawickrama,Production Technician - WC20,2010-01-22,prasanna0@adventure-works.com,129-555-0199
+Min,G,Su,Production Technician - WC20,2010-01-24,min0@adventure-works.com,590-555-0152
+Olinda,C,Turner,Production Technician - WC20,2010-03-04,olinda0@adventure-works.com,306-555-0186
+Krishna,,Sunkammurali,Production Technician - WC20,2010-02-13,krishna0@adventure-works.com,491-555-0183
+Paul,R,Singh,Production Technician - WC20,2009-01-17,paul1@adventure-works.com,727-555-0112
+Cynthia,S,Randall,Production Supervisor - WC30,2009-01-27,cynthia0@adventure-works.com,352-555-0138
+Jian Shuo,,Wang,Production Technician - WC30,2008-12-07,jianshuo0@adventure-works.com,952-555-0178
+Sandra,,Reátegui Alayo,Production Technician - WC30,2008-12-26,sandra0@adventure-works.com,896-555-0168
+Jason,M,Watters,Production Technician - WC30,2009-01-14,jason0@adventure-works.com,571-555-0179
+Andy,M,Ruth,Production Technician - WC30,2009-01-31,andy0@adventure-works.com,118-555-0110
+Michael,T,Vanderhyde,Production Technician - WC30,2009-02-26,michael5@adventure-works.com,296-555-0121
+Rostislav,E,Shabalin,Production Technician - WC30,2009-02-19,rostislav0@adventure-works.com,751-555-0134
+Yuhong,L,Li,Production Supervisor - WC20,2009-02-01,yuhong0@adventure-works.com,965-555-0155
+Hanying,P,Feng,Production Technician - WC20,2008-12-16,hanying0@adventure-works.com,319-555-0139
+Raymond,K,Sam,Production Technician - WC20,2008-12-23,raymond0@adventure-works.com,226-555-0197
+Fadi,K,Fakhouri,Production Technician - WC20,2009-01-04,fadi0@adventure-works.com,935-555-0116
+Lane,M,Sacksteder,Production Technician - WC20,2009-01-11,lane0@adventure-works.com,200-555-0117
+Linda,A,Randall,Production Technician - WC20,2009-02-03,linda1@adventure-works.com,696-555-0157
+Shelley,N,Dyck,Production Technician - WC20,2009-03-07,shelley0@adventure-works.com,991-555-0184
+Terrence,W,Earls,Production Technician - WC20,2009-02-16,terrence0@adventure-works.com,110-555-0115
+Jeff,V,Hay,Production Supervisor - WC45,2009-01-21,jeff0@adventure-works.com,350-555-0167
+Kirk,J,Koenigsbauer,Production Technician - WC45,2008-12-15,kirk0@adventure-works.com,669-555-0150
+Laura,C,Steele,Production Technician - WC45,2009-01-03,laura0@adventure-works.com,777-555-0141
+Alex,M,Nayberg,Production Technician - WC45,2009-02-08,alex0@adventure-works.com,819-555-0198
+Andrew,M,Cencini,Production Technician - WC45,2009-03-06,andrew1@adventure-works.com,207-555-0192
+Chris,T,Preston,Production Technician - WC45,2009-01-22,chris0@adventure-works.com,200-555-0112
+Jack,S,Richins,Production Supervisor - WC30,2009-02-21,jack0@adventure-works.com,552-555-0111
+David,N,Johnson,Production Technician - WC30,2008-12-02,david1@adventure-works.com,166-555-0162
+Garrett,R,Young,Production Technician - WC30,2008-12-07,garrett0@adventure-works.com,609-555-0179
+Susan,A,Metters,Production Technician - WC30,2008-12-14,susan1@adventure-works.com,639-555-0164
+George,Z,Li,Production Technician - WC30,2008-12-21,george0@adventure-works.com,518-555-0199
+David,A,Yalovsky,Production Technician - WC30,2009-01-02,david3@adventure-works.com,373-555-0142
+Marc,J,Ingle,Production Technician - WC30,2009-01-16,marc0@adventure-works.com,234-555-0169
+Eugene,R,Zabokritski,Production Technician - WC30,2009-01-21,eugene0@adventure-works.com,241-555-0191
+Benjamin,R,Martin,Production Technician - WC30,2009-01-27,benjamin0@adventure-works.com,533-555-0111
+Reed,T,Koch,Production Technician - WC30,2009-02-02,reed0@adventure-works.com,678-555-0110
+David,Oliver,Lawrence,Production Technician - WC30,2009-02-14,david7@adventure-works.com,118-555-0177
+Russell,M,King,Production Technician - WC30,2009-02-21,russell1@adventure-works.com,517-555-0122
+John,N,Frum,Production Technician - WC30,2009-03-03,john3@adventure-works.com,663-555-0172
+Jan,S,Miksovsky,Production Technician - WC30,2009-03-05,jan0@adventure-works.com,139-555-0131
+Katie,L,McAskill-White,Production Supervisor - WC20,2009-02-20,katie0@adventure-works.com,809-555-0133
+Michael,T,Hines,Production Technician - WC20,2008-12-09,michael0@adventure-works.com,218-555-0126
+Nitin,S,Mirchandani,Production Technician - WC20,2008-12-28,nitin0@adventure-works.com,143-555-0173
+Barbara,S,Decker,Production Technician - WC20,2009-01-22,barbara0@adventure-works.com,119-555-0192
+John,Y,Chen,Production Technician - WC20,2009-02-09,john2@adventure-works.com,201-555-0163
+Stefen,A,Hesse,Production Technician - WC20,2009-02-28,stefen0@adventure-works.com,165-555-0113
+Shane,S,Kim,Production Supervisor - WC45,2009-02-08,shane0@adventure-works.com,810-555-0178
+Yvonne,S,McKay,Production Technician - WC45,2008-12-09,yvonne0@adventure-works.com,286-555-0189
+Douglas,B,Hite,Production Technician - WC45,2008-12-27,douglas0@adventure-works.com,808-555-0172
+Janeth,M,Esteves,Production Technician - WC45,2009-01-15,janeth0@adventure-works.com,540-555-0191
+Robert,J,Rounthwaite,Production Technician - WC45,2009-02-02,robert0@adventure-works.com,589-555-0147
+Lionel,C,Penuchot,Production Technician - WC45,2009-02-26,lionel0@adventure-works.com,450-555-0152
+Brenda,M,Diaz,Production Supervisor - WC40,2009-03-05,brenda0@adventure-works.com,142-555-0139
+Alejandro,E,McGuel,Production Technician - WC40,2008-12-06,alejandro0@adventure-works.com,668-555-0130
+Fred,T,Northup,Production Technician - WC40,2008-12-12,fred0@adventure-works.com,818-555-0192
+Kevin,H,Liu,Production Technician - WC40,2008-12-17,kevin1@adventure-works.com,714-555-0138
+Shammi,G,Mohamed,Production Technician - WC40,2008-12-24,shammi0@adventure-works.com,793-555-0179
+Rajesh,M,Patel,Production Technician - WC40,2008-12-31,rajesh0@adventure-works.com,373-555-0137
+Lorraine,O,Nay,Production Technician - WC40,2009-01-04,lorraine0@adventure-works.com,845-555-0184
+Paula,R,Nartker,Production Technician - WC40,2009-01-12,paula1@adventure-works.com,476-555-0119
+Frank,T,Lee,Production Technician - WC40,2009-01-17,frank0@adventure-works.com,158-555-0191
+Brian,T,Lloyd,Production Technician - WC40,2009-01-29,brian0@adventure-works.com,110-555-0182
+Tawana,G,Nusbaum,Production Technician - WC40,2009-02-05,tawana0@adventure-works.com,368-555-0113
+Ken,L,Myer,Production Technician - WC40,2009-02-24,ken1@adventure-works.com,949-555-0174
+Gabe,B,Mares,Production Technician - WC40,2009-03-08,gabe0@adventure-works.com,310-555-0117
+Lori,A,Kane,Production Supervisor - WC45,2009-02-26,lori0@adventure-works.com,289-555-0196
+Stuart,V,Munson,Production Technician - WC45,2008-12-02,stuart0@adventure-works.com,413-555-0136
+Greg,F,Alderson,Production Technician - WC45,2008-12-02,greg0@adventure-works.com,332-555-0150
+Scott,R,Gode,Production Technician - WC45,2009-01-08,scott0@adventure-works.com,391-555-0138
+Kathie,E,Flood,Production Technician - WC45,2009-01-27,kathie0@adventure-works.com,446-555-0118
+Belinda,M,Newman,Production Technician - WC45,2009-02-20,belinda0@adventure-works.com,319-555-0126
+Hazem,E,Abolrous,Quality Assurance Manager,2009-02-28,hazem0@adventure-works.com,869-555-0125
+Peng,J,Wu,Quality Assurance Supervisor,2008-12-09,peng0@adventure-works.com,164-555-0164
+Sootha,T,Charncherngkha,Quality Assurance Technician,2010-02-23,sootha0@adventure-works.com,325-555-0137
+Andreas,T,Berglund,Quality Assurance Technician,2009-02-02,andreas0@adventure-works.com,181-555-0124
+Mark,L,Harrington,Quality Assurance Technician,2009-01-15,mark0@adventure-works.com,147-555-0179
+Sean,P,Alexander,Quality Assurance Technician,2008-12-28,sean0@adventure-works.com,420-555-0173
+Zainal,T,Arifin,Document Control Manager,2009-01-04,zainal0@adventure-works.com,204-555-0115
+Tengiz,N,Kharatishvili,Control Specialist,2008-12-16,tengiz0@adventure-works.com,910-555-0116
+Sean,N,Chai,Document Control Assistant,2009-01-22,sean1@adventure-works.com,205-555-0132
+Karen,R,Berge,Document Control Assistant,2009-02-09,karen0@adventure-works.com,746-555-0164
+Chris,K,Norred,Control Specialist,2009-03-06,chris1@adventure-works.com,575-555-0126
+A. Scott,,Wright,Master Scheduler,2008-12-12,ascott0@adventure-works.com,992-555-0194
+Sairaj,L,Uddin,Scheduling Assistant,2009-01-26,sairaj0@adventure-works.com,500-555-0159
+William,S,Vong,Scheduling Assistant,2009-01-07,william0@adventure-works.com,148-555-0145
+Alan,J,Brewer,Scheduling Assistant,2009-02-13,alan0@adventure-works.com,438-555-0172
+Brian,P,LaMee,Scheduling Assistant,2009-03-03,brian1@adventure-works.com,313-555-0196
+Gary,E.,Altman,Facilities Manager,2009-12-02,gary1@adventure-works.com,110-555-0112
+Christian,E,Kleinerman,Maintenance Supervisor,2008-12-14,christian0@adventure-works.com,846-555-0157
+Lori,K,Penor,Janitor,2010-02-16,lori1@adventure-works.com,295-555-0161
+Stuart,J,Macrae,Janitor,2010-03-05,stuart1@adventure-works.com,539-555-0149
+Jo,L,Berry,Janitor,2010-03-07,jo1@adventure-works.com,228-555-0159
+Pat,H,Coleman,Janitor,2010-01-27,pat0@adventure-works.com,720-555-0158
+Magnus,E,Hedlund,Facilities Administrative Assistant,2009-12-21,magnus0@adventure-works.com,583-555-0182
+Laura,F,Norman,Chief Financial Officer,2009-01-31,laura1@adventure-works.com,615-555-0110
+Paula,M,Barreto de Mattos,Human Resources Manager,2008-12-06,paula0@adventure-works.com,523-555-0175
+Grant,N,Culbertson,Human Resources Administrative Assistant,2009-02-25,grant0@adventure-works.com,955-555-0131
+Hao,O,Chen,Human Resources Administrative Assistant,2009-02-06,hao0@adventure-works.com,806-555-0136
+Vidur,X,Luthra,Recruiter,2009-01-01,vidur0@adventure-works.com,153-555-0186
+Mindy,C,Martin,Benefits Specialist,2008-12-25,mindy0@adventure-works.com,522-555-0147
+Willis,T,Johnson,Recruiter,2008-12-13,willis0@adventure-works.com,778-555-0141
+David,J,Liu,Accounts Manager,2009-01-30,david6@adventure-works.com,646-555-0185
+Deborah,E,Poe,Accounts Receivable Specialist,2008-12-18,deborah0@adventure-works.com,602-555-0194
+Candy,L,Spoon,Accounts Receivable Specialist,2009-01-06,candy0@adventure-works.com,920-555-0177
+Bryan,A,Walton,Accounts Receivable Specialist,2009-01-24,bryan1@adventure-works.com,935-555-0199
+Barbara,C,Moreland,Accountant,2009-02-18,barbara1@adventure-works.com,822-555-0145
+Dragan,K,Tomic,Accounts Payable Specialist,2009-02-11,dragan0@adventure-works.com,117-555-0185
+Janet,L,Sheperdigian,Accounts Payable Specialist,2009-03-01,janet0@adventure-works.com,393-555-0186
+Mike,K,Seamans,Accountant,2009-03-08,mike0@adventure-works.com,927-555-0150
+Wendy,Beth,Kahn,Finance Manager,2008-12-25,wendy0@adventure-works.com,248-555-0134
+Sheela,H,Word,Purchasing Manager,2011-02-25,sheela0@adventure-works.com,210-555-0193
+Mikael,Q,Sandberg,Buyer,2009-02-10,mikael0@adventure-works.com,309-555-0170
+Arvind,B,Rao,Buyer,2009-02-28,arvind0@adventure-works.com,848-555-0163
+Linda,P,Meisner,Buyer,2009-12-17,linda2@adventure-works.com,916-555-0165
+Fukiko,J,Ogisu,Buyer,2010-01-04,fukiko0@adventure-works.com,520-555-0177
+Gordon,L,Hee,Buyer,2010-01-11,gordon0@adventure-works.com,230-555-0144
+Frank,S,Pellow,Buyer,2010-01-23,frank2@adventure-works.com,163-555-0147
+Eric,S,Kurjan,Buyer,2010-01-27,eric2@adventure-works.com,265-555-0195
+Erin,M,Hagens,Buyer,2010-01-31,erin0@adventure-works.com,842-555-0158
+Ben,T,Miller,Buyer,2010-03-09,ben0@adventure-works.com,151-555-0113
+Annette,L,Hill,Purchasing Assistant,2010-12-06,annette0@adventure-works.com,125-555-0196
+Reinout,N,Hillmann,Purchasing Assistant,2010-12-25,reinout0@adventure-works.com,370-555-0163
+David,M,Barber,Assistant to the Chief Financial Officer,2009-01-12,david5@adventure-works.com,477-555-0132
+Jean,E,Trenary,Information Services Manager,2008-12-11,jean0@adventure-works.com,685-555-0120
+Stephanie,A,Conroy,Network Manager,2009-02-04,stephanie0@adventure-works.com,594-555-0110
+Ashvini,R,Sharma,Network Administrator,2008-12-04,ashvini0@adventure-works.com,656-555-0119
+Peter,I,Connelly,Network Administrator,2009-02-23,peter1@adventure-works.com,310-555-0133
+Karen,A,Berg,Application Specialist,2009-02-16,karen1@adventure-works.com,654-555-0177
+Ramesh,V,Meyyappan,Application Specialist,2009-02-03,ramesh0@adventure-works.com,182-555-0134
+Dan,K,Bacon,Application Specialist,2009-01-11,dan0@adventure-works.com,166-555-0159
+François,P,Ajenstat,Database Administrator,2009-01-17,françois0@adventure-works.com,785-555-0110
+Dan,B,Wilson,Database Administrator,2009-01-22,dan1@adventure-works.com,653-555-0144
+Janaina,Barreiro Gambaro,Bueno,Application Specialist,2008-12-23,janaina0@adventure-works.com,623-555-0155
+Brian,S,Welcker,Vice President of Sales,2011-02-15,brian3@adventure-works.com,716-555-0127
+Stephen,Y,Jiang,North American Sales Manager,2011-01-04,stephen0@adventure-works.com,238-555-0197
+Michael,G,Blythe,Sales Representative,2011-05-31,michael9@adventure-works.com,257-555-0154
+Linda,C,Mitchell,Sales Representative,2011-05-31,linda3@adventure-works.com,883-555-0116
+Jillian,,Carson,Sales Representative,2011-05-31,jillian0@adventure-works.com,517-555-0117
+Garrett,R,Vargas,Sales Representative,2011-05-31,garrett1@adventure-works.com,922-555-0165
+Tsvi,Michael,Reiter,Sales Representative,2011-05-31,tsvi0@adventure-works.com,664-555-0112
+Pamela,O,Ansman-Wolfe,Sales Representative,2011-05-31,pamela0@adventure-works.com,340-555-0193
+Shu,K,Ito,Sales Representative,2011-05-31,shu0@adventure-works.com,330-555-0120
+José,Edvaldo,Saraiva,Sales Representative,2011-05-31,josé1@adventure-works.com,185-555-0169
+David,R,Campbell,Sales Representative,2011-05-31,david8@adventure-works.com,740-555-0182
+Tete,A,Mensa-Annan,Sales Representative,2012-09-30,tete0@adventure-works.com,615-555-0153
+Syed,E,Abbas,Pacific Sales Manager,2013-03-14,syed0@adventure-works.com,926-555-0182
+Lynn,N,Tsoflias,Sales Representative,2013-05-30,lynn0@adventure-works.com,1 (11) 500 555-0190
+Amy,E,Alberts,European Sales Manager,2012-04-16,amy0@adventure-works.com,775-555-0164
+Rachel,B,Valdez,Sales Representative,2013-05-30,rachel0@adventure-works.com,1 (11) 500 555-0140
+Jae,B,Pak,Sales Representative,2012-05-30,jae0@adventure-works.com,1 (11) 500 555-0145
+Ranjit,R,Varkey Chudukatil,Sales Representative,2012-05-30,ranjit0@adventure-works.com,1 (11) 500 555-0117
