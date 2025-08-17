@@ -1,6 +1,17 @@
 import tkinter as tk
+from tkinter import messagebox
+
+def Onclick_Submit():
+    name=name_textbox.get()
+    email=email_textbox.get()
+    phone=phone_textbox.get()
+    messagebox.showinfo(
+        "Captured Data", 
+        f"Name: {name}\nEmail: {email}\nPhone: {phone}"
+    )
 
 root = tk.Tk()
+root.geometry("500x200")
 root.title("Student Registration Form")
 
 name_label = tk.Label(root, text="Enter Name")
@@ -21,7 +32,7 @@ phone_label.pack()
 phone_textbox = tk.Entry(root)
 phone_textbox.pack()
 
-submit_button = tk.Button(root, text="Submit")
+submit_button = tk.Button(root, text="Submit", command=Onclick_Submit)
 submit_button.pack()
 
 root.mainloop()
