@@ -1,0 +1,10 @@
+[project]
+name = "tubedownloader"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pyside6>=6.9.2",
+    "yt-dlp>=2025.9.5",
+]
